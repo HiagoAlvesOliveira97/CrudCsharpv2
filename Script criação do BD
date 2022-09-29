@@ -1,0 +1,6 @@
+ --CREATE DATABASE DWTestesCrud
+--CREATE TABLE [dbo].[UsuarioTeste](
+--	[Nome] [varchar](100) NOT NULL,
+--	[Idade] [datetime] NULL,
+--	[Id] [int] IDENTITY(1,1) PRIMARY KEY NOT NULL
+--) ON [PRIMARY]
